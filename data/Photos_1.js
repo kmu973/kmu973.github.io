@@ -1,0 +1,1 @@
+var json_Photos_1 = {"type":"FeatureCollection","name":"Photos_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"photo":"C:\\강민욱\\강민욱\\KMW_01. Arcgis web publishing\\30.geotagged photo\\KakaoTalk_20220325_105527453.jpg"},"geometry":{"type":"Point","coordinates":[126.943120888888899,37.370338]}}]}
